@@ -11,7 +11,7 @@ Name is Michael, i am a 4th year software engineering student at AASTU Universit
 [![Machine Learning](https://wakatime.com/badge/user/f1de0433-7537-4e5b-8f65-4af3c856f802/project/1cef3179-9b5d-4205-8800-d515ab6500d1.svg)](https://wakatime.com/badge/user/f1de0433-7537-4e5b-8f65-4af3c856f802/project/1cef3179-9b5d-4205-8800-d515ab6500d1)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=MichaelGetu-git&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MichaelGetu-git&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelGetu-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
