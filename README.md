@@ -1,17 +1,69 @@
-# 💫 About Me:
-🔭 I’m currently working on diversifying my portfolio<br>👯 I’m looking to collaborate on react-native projects<br>🤝 I’m looking for help with machine learning / ai<br>🌱 I’m currently learning machine/deep learning<br>💬 Ask me about anything<br>⚡ Fun fact i like manchester united
+## Michael Getu Muluneh
 
+**Staff DevOps Engineer & Fullstack Lead at [Zemenay Tech](https://zemenaytech.com)** · Addis Ababa, UTC+3
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michael-getu-063284228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU8I0fztDRxOgKq8X9aFZZA%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mike_depatronus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michaelgetu21@gmail.com) 
+Seven years shipping production software, since 2019. I write the services and I run the
+infrastructure they sit on — React and React Native on the front, Python and Node behind
+them, Kubernetes and AWS underneath. I can't leave anything half-owned.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=michaelgetu-git&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgetu-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📍 [michaelgetu.vercel.app](https://michaelgetu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/michael-getu-063284228) · michaelgetu21@gmail.com
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=michaelgetu-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Open source
+
+**[galio-org/galio](https://github.com/galio-org/galio)** — contributor to the Galio React Native UI framework (3.2k ⭐). Four merged PRs:
+
+- [#273](https://github.com/galio-org/galio/pull/273) — resolved a `GalioProvider` / React Navigation context conflict that broke apps using both
+- [#272](https://github.com/galio-org/galio/pull/272) — fixed broken package exports
+- [#275](https://github.com/galio-org/galio/pull/275) — navbar style optimization + provider message fix
+- [#278](https://github.com/galio-org/galio/pull/278) — carried the library through the Expo SDK 54 upgrade
+
+**[galio-test-pack](https://github.com/MichaelGetu-git/galio-test-pack)** — my own TypeScript-first rewrite of the Galio component library.
+
+---
+
+### Things I built because nobody asked me to
+
+**[BGRemove](https://github.com/MichaelGetu-git/BGRemove)** — every background remover makes you upload your photo to someone's server. For an ID photo that's a privacy cost nobody prices in. This runs the segmentation model entirely in the browser via transformers.js + WebAssembly, so the image never leaves your device and there's no backend to breach.
+
+**[multi-collab-editor](https://github.com/MichaelGetu-git/multi-collab-editor)** — real-time collaborative editing without users clobbering each other. Microservices: an API gateway fronting separate auth, document, and WebSocket collaboration services, so concurrency and access control stay independent problems.
+
+**[Questions-jo](https://github.com/MichaelGetu-git/Questions-jo)** — an interactive leadership assessment that gives you insight as you answer rather than a score at the end. React, TypeScript, Tailwind. [Live](https://leaders-journey.vercel.app).
+
+---
+
+### Selected private & proprietary work
+
+Not everything I've built is mine to publish. These are the systems I'd point at first anyway —
+happy to walk through the architecture or demo any of them.
+
+**MediScan** — clinical decision-support platform for chest X-rays. A multi-model ensemble
+(YOLOv12m detection + EfficientNet-B0 classification + a Lungmask U-Net segmenter) reads 15
+lung-disease classes with confidence scores and Grad-CAM heatmaps. Around the model sits a real
+clinical workflow: radiologist markup, automated PDF reporting, RBAC, 2FA, AES-256 at rest,
+full audit logging. FastAPI + PostgreSQL, on Kubernetes with Prometheus and Celery, covered by
+pytest and Playwright suites. *Private repo.*
+
+**EV Repair Finder** — cross-platform React Native app connecting EV drivers to certified repair
+workshops across Europe, shipped on iOS and Android. Full Firebase backend (Firestore, Auth,
+Cloud Functions, Messaging), Redux Toolkit, maps and navigation, multi-language i18n.
+*Built at Zemenay Tech — source isn't mine to publish.*
+
+**Leana** — real-time social features in React Native against Node.js services: live chat and
+messaging over WebSockets, serving 50,000+ monthly active users. *Also Zemenay.*
+
+---
+
+### Stack
+
+**Languages** TypeScript · JavaScript · Python · SQL · Dart · Bash
+**Front** React · Next.js · React Native · Expo · Redux · Tailwind
+**Back** Node.js · FastAPI · Express · PostgreSQL · Firebase · WebSockets
+**Infra** Docker · Kubernetes (EKS) · AWS · Terraform · ArgoCD · GitHub Actions · Prometheus
+**AI** PyTorch · YOLO · ONNX · transformers.js · RAG · LangChain
+**Testing** Playwright · Jest · pytest
+
+---
+
+⚡ Manchester United, and I do my best work after midnight.
