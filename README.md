@@ -6,7 +6,7 @@ Seven years shipping production software, since 2019. I write the services and I
 infrastructure they sit on — React and React Native on the front, Python and Node behind
 them, Kubernetes and AWS underneath. I can't leave anything half-owned.
 
-📍 Open to remote work · [michaelgetu.vercel.app](https://michaelgetu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/michael-getu-063284228) · michaelgetu21@gmail.com
+📍 · [michaelgetu.vercel.app](https://michaelgetu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/michael-getu-063284228) · michaelgetu21@gmail.com
 
 ---
 
