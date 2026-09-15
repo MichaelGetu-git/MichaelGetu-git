@@ -6,20 +6,22 @@ Seven years shipping production software, since 2019. I write the services and I
 infrastructure they sit on — React and React Native on the front, Python and Node behind
 them, Kubernetes and AWS underneath. I can't leave anything half-owned.
 
-📍 [michaelgetu.vercel.app](https://michaelgetu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/michael-getu-063284228) · michaelgetu21@gmail.com
+📍 Open to remote work · [michaelgetu.vercel.app](https://michaelgetu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/michael-getu-063284228) · michaelgetu21@gmail.com
 
 ---
 
 ### Open source
 
-**[galio-org/galio](https://github.com/galio-org/galio)** — contributor to the Galio React Native UI framework (3.2k ⭐). Four merged PRs:
+**[galio-org/galio](https://github.com/galio-org/galio)** — contributor to the Galio React Native UI framework (3.2k ⭐). Six merged PRs across the org, ~22k lines:
 
+- [#270](https://github.com/galio-org/galio/pull/270) — **modernized the framework and added TypeScript declarations across the component library.** +15,720 / −10,914 over 91 files. Merged 12 Aug 2025, the day before the v0.9.1 TypeScript release
+- [#272](https://github.com/galio-org/galio/pull/272) — fixed broken package exports and the shipped type declarations (+3,236, 91 files)
 - [#273](https://github.com/galio-org/galio/pull/273) — resolved a `GalioProvider` / React Navigation context conflict that broke apps using both
-- [#272](https://github.com/galio-org/galio/pull/272) — fixed broken package exports
 - [#275](https://github.com/galio-org/galio/pull/275) — navbar style optimization + provider message fix
 - [#278](https://github.com/galio-org/galio/pull/278) — carried the library through the Expo SDK 54 upgrade
+- [galio-starter-kit#30](https://github.com/galio-org/galio-starter-kit/pull/30) — modernized the official starter kit (198 ⭐, +2,802 / −2,227)
 
-**[galio-test-pack](https://github.com/MichaelGetu-git/galio-test-pack)** — my own TypeScript-first rewrite of the Galio component library.
+**[galio-test-pack](https://github.com/MichaelGetu-git/galio-test-pack)** — my own TypeScript-first rewrite of the component library.
 
 ---
 
